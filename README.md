@@ -19,7 +19,8 @@ Speed
 User experience
 
 ## Algorithm
+[exp 2 prompt.pdf](https://github.com/user-attachments/files/22990116/exp.2.prompt.pdf)
 
 ## Result
-
+Hence analysed on Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization.
 
